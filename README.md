@@ -23,6 +23,7 @@ Execute:
 
 - sudo ./autoupgraderaspbian.sh
 
+```
 # ./auto-update2.sh 
 RPI UPDATE BRANCH master
   Mar  6 2019 14:44:12 
@@ -58,3 +59,4 @@ KERNEL actualizado.
 Limpiando el sistema...
 Sistema actualizado y listo.
 #
+```
