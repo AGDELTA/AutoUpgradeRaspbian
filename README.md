@@ -14,13 +14,10 @@ else
 - fproxy=1
 
 And if use proxy, configure into script the variables:
-
-  #http/https
-	proxy_pro="http"
-  #IP o hostname of proxy-server
-	proxy_ip="180.113.65.240"
-  #Port of listen on proxy-server
-	proxy_port="23128"
+  
+- proxy_pro="http"  #http/https
+- proxy_ip="180.113.65.240"  #IP o hostname of proxy-server
+- proxy_port="23128" #Port of listen on proxy-server
 
 Execute:
 
